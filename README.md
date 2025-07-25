@@ -1,2 +1,2 @@
 # Tu-Tienda-Digital
-Venta y accesorios de celulares 
+Servicios Digitales Profesionales
